@@ -12,11 +12,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Craig Jackson # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: Create. Analyze. Tinker. # add description
-social-twitter: @OnTheAirship# add your Twitter handle
+social-twitter: @OnTheAirship # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: TheAirship # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: infosec@theairship.cloud# add your Email address
+social-email: infosec@theairship.cloud # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
